@@ -1,3 +1,6 @@
+This fork of linux-xlnx represents the current xlnx kernel used by the 
+PPCs (440) in the ATLAS Pixel readout drivers.
+
 Linux kernel
 ============
 
